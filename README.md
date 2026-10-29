@@ -12,6 +12,10 @@ This repository contains lab observation experiments and exercises for Full Stac
 - **`exp 4/`** - Node.js web application handling `GET` and `POST` request parameters using standard HTTP and QueryString modules.
 - **`exp 5/`** - Product management CRUD application with Express.js REST API and MongoDB/Mongoose.
 - **`exp 6/`** - React personal portfolio application.
+- **`exp 7/`** - React student registration form featuring comprehensive HTML5 input controls and state management.
+- **`exp 8/`** - Single Page Application (SPA) navigation and routing using React Router (`BrowserRouter`, `Routes`, `Route`, `Link`).
+- **`exp 9/`** - Demonstration of built-in React Hooks (`useState`, `useEffect`, `useRef`, `useMemo`, `useCallback`).
+- **`exp 10/`** - React To-Do List application with task addition, completion toggle, deletion, and summary counters.
 
 ## Author
 - **Saravanan**
